@@ -97,7 +97,7 @@ const Home = () => {
             </CardHeader>
             <CardBody>
             <Heading fontSize={'28px'} color={"purple.700"}>Cyberpunk 2077</Heading>
-            <Text>Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City,a dangerous megalopolis.</Text>
+            <Text>Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City, a dangerous megalopolis.</Text>
             </CardBody>
             <CardFooter>
                 <a href="https://www.cyberpunk.net/in/en/">

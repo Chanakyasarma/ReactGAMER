@@ -92,7 +92,7 @@ const Games = () => {
             <Text>Apex Legends is a free-to-play hero shooter game where legendary competitors battle for glory, fame, and fortune on the fringes of the Frontier.</Text>
             </CardBody>
             <CardFooter>
-            <a href="https://playvalorant.com/en-us/?gclid=Cj0KCQiAw8OeBhCeARIsAGxWtUyPtCHeKRZPPkIVYMTmIlKJVZ7Wk1lGjNgaKMuiaXS9FHpCfzPadlIaAheWEALw_wcB&gclsrc=aw.ds">
+            <a href="https://www.ea.com/en-gb/games/apex-legends">
                 <Button bg={"purple.500"} color={"black"}>View here</Button></a>
             </CardFooter>
         </Card>
@@ -108,7 +108,7 @@ const Games = () => {
             <Text>Fortnite is a free-to-play Battle Royale game with numerous game modes for every type of game player.You build and you kill</Text>
             </CardBody>
             <CardFooter>
-            <a href="https://playvalorant.com/en-us/?gclid=Cj0KCQiAw8OeBhCeARIsAGxWtUyPtCHeKRZPPkIVYMTmIlKJVZ7Wk1lGjNgaKMuiaXS9FHpCfzPadlIaAheWEALw_wcB&gclsrc=aw.ds">
+            <a href="https://www.fortnite.com/">
                 <Button bg={"purple.500"} color={"black"}>View here</Button></a>
             </CardFooter>
         </Card>
@@ -123,7 +123,7 @@ const Games = () => {
             <Heading fontSize={'28px'} color={"purple.700"}>Gotham Knights</Heading>
             <Text>Gotham Knights is an open-world, action RPG set in Gotham City. After Batman is dead you play as member of the Bat-Family.</Text></CardBody>
             <CardFooter>
-            <a href="https://playvalorant.com/en-us/?gclid=Cj0KCQiAw8OeBhCeARIsAGxWtUyPtCHeKRZPPkIVYMTmIlKJVZ7Wk1lGjNgaKMuiaXS9FHpCfzPadlIaAheWEALw_wcB&gclsrc=aw.ds">
+            <a href="https://www.gothamknightsgame.com/en-gb">
                 <Button bg={"purple.500"} color={"black"}>View here</Button></a>
             </CardFooter>
         </Card>
@@ -139,7 +139,7 @@ const Games = () => {
             <Text>Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world's greatest cars.</Text>
             </CardBody>
             <CardFooter>
-            <a href="https://playvalorant.com/en-us/?gclid=Cj0KCQiAw8OeBhCeARIsAGxWtUyPtCHeKRZPPkIVYMTmIlKJVZ7Wk1lGjNgaKMuiaXS9FHpCfzPadlIaAheWEALw_wcB&gclsrc=aw.ds">
+            <a href="https://forza.net/horizon/">
                 <Button bg={"purple.500"} color={"black"}>View here</Button></a>
             </CardFooter>
         </Card>
