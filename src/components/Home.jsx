@@ -11,7 +11,7 @@ import img5 from '../assests/5.png'
 import img6 from '../assests/6.jpg'
 import img8 from '../assests/valorant.jpg'
 import img9 from '../assests/cyberpunk.jpg'
-import img0 from '../assests/zero.jpg'
+import img0 from '../assests/zer.jpg'
 import { transform } from 'framer-motion';
 import{HashLink} from "react-router-hash-link"
 
