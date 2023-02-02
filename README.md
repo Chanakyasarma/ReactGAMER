@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `View Project here`
 
-Runs the app in the development mode.<br />
+Runs the app in your browser.<br />
 Open [https://gamer-gray.vercel.app/](https://gamer-gray.vercel.app/) to view it in the browser.
 
 The page will reload if you make edits.<br />
