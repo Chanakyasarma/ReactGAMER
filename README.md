@@ -10,7 +10,7 @@ Open [https://gamer-gray.vercel.app/](https://gamer-gray.vercel.app/) to view it
  ### `Project Description`
  
  GameSite is online platform that provide with you insight from the gaming industy.
-Get information about new game trailer and link to the direct website.
+Get information about new game trailer and link to the offical website of the game all in one place.
 This project was created using Html5, React JS and Chakra Ui library.
 
 ### `Tech Stack`
